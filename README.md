@@ -27,7 +27,7 @@
 
 - <img src="http://potplayer.daum.net/resources/favicon.ico" width = "16" height = "16"> [PotPlayer](https://www.potplayer.daum.net) -万能的本地播放器，图片，音频，视频都不在话下
 
-- <img src="https://www.utorrent.com/faviconUT.ico" width = "16" height = "16"> [uTorrent Web](https://www.utorrent.com/utweb-index) -著名BT种下下载器的本地Web版
+- <img src="https://www.utorrent.com/faviconUT.ico" width = "16" height = "16"> [uTorrent Web](https://www.utorrent.com/utweb-index) -著名BT下载工具uTorrent的本地Web版
 
 - <img src="https://www.7-zip.org/7ziplogo.png" width = "16" height = "16"> [7zip](https://www.7-zip.org) -开源，强大，免费的压缩工具，界面丑了点儿
 
