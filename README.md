@@ -1,5 +1,5 @@
 # Awesome-Software
-个人推荐的有用软件
+推荐软件
 
 - <img src="https://actionrecorder.com/favicon.png" width = "16" height = "16"> [Mirillis Action!](https://mirillis.com/en/products/action.html) -傻瓜式视频录制软件，可以串流到各大直播平台，个人用作给朋友录制解决问题的方法
 
