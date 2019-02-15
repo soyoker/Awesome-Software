@@ -1,5 +1,6 @@
 # Awesome-Software
 推荐软件
+- <img src="https://www.d3dgear.com/favicon.ico" width = "16" height = "16"> [D3DGear](https://www.d3dgear.com) -比喻一下，这个视频录制软件好比Linux，功能强大，但是设置复杂，缺乏友好直观的用户界面
 
 - <img src="https://actionrecorder.com/favicon.png" width = "16" height = "16"> [Mirillis Action!](https://mirillis.com/en/products/action.html) -傻瓜式视频录制软件，可以串流到各大直播平台，个人用作给朋友录制解决问题的方法
 
