@@ -33,3 +33,5 @@
 - <img src="https://www.7-zip.org/7ziplogo.png" width = "16" height = "16"> [7zip](https://www.7-zip.org) -开源，强大，免费的压缩工具，界面丑了点儿
 
 - <img src="https://www.sublimetext.com/favicon.ico" width = "16" height = "16"> [Sublime Text](https://www.sublimetext.com) -功能强大的代码编辑器
+
+- <img src="https://rufus.ie/pics/rufus-128.png" width = "16" height = "16"> [Rufus](https://rufus.ie) -优盘启动制作工具
