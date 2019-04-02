@@ -36,4 +36,11 @@
 
 - <img src="https://rufus.ie/pics/rufus-128.png" width = "16" height = "16"> [Rufus](https://rufus.ie) -优盘启动制作工具
 
+## Mac平台 ##
+
+- <img src="https://getcollectie.com/apple-touch-icon-180x180.png" width = "16" height = "16"> [Collectie app](https://getcollectie.com/)-
+
 - <img src="" width = "16" height = "16"> [snippets lab](https://www.renfei.org/snippets-lab/) -代码片段工具
+
+- <img src="http://outline.ws/Content/pic/favicon.ico" width = "16" height = "16"> [Outline](http://outline.ws)-
+
