@@ -40,7 +40,7 @@
 
 - <img src="https://getcollectie.com/apple-touch-icon-180x180.png" width = "16" height = "16"> [Collectie app](https://getcollectie.com/)-
 
-- <img src="" width = "16" height = "16"> [snippets lab](https://www.renfei.org/snippets-lab/) -代码片段工具
+- <img src="https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/4f/d3/d64fd3ed-6c0b-aa85-1147-47dc238f645f/AppIcon-0-85-220-0-4-2x.png/246x0w.png" width = "16" height = "16"> [snippets lab](https://www.renfei.org/snippets-lab/) -代码片段工具
 
 - <img src="http://outline.ws/Content/pic/favicon.ico" width = "16" height = "16"> [Outline](http://outline.ws)-
 
