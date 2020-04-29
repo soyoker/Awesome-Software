@@ -1,12 +1,21 @@
 # Awesome-Software
-推荐软件
+## Windows
+### 音频
+- <img src="http://www.aimp.ru/favicon.ico" width = "16" height = "16"> [AIMP](https://www.aimp.ru/) -炫酷的本地音乐播放器，可以播放及录制互联网电台
+
+### 视频
 - <img src="https://www.d3dgear.com/favicon.ico" width = "16" height = "16"> [D3DGear](https://www.d3dgear.com) -比喻一下，这个视频录制软件好比Linux，功能强大，但是设置复杂，缺乏友好直观的用户界面
 
 - <img src="https://actionrecorder.com/favicon.png" width = "16" height = "16"> [Mirillis Action!](https://mirillis.com/en/products/action.html) -傻瓜式视频录制软件，可以串流到各大直播平台，个人用作给朋友录制解决问题的方法
 
+### 图片
+### 工具
 - <img src="https://adguard.com/img/favicons/favicon.ico" width = "16" height = "16"> [Adguard](https://www.adguard.com) -广告屏蔽利器，亦可屏蔽搜索引擎SEM广告，告别广告诈骗，但互联网信息甄别还主要在于个人
 
-- <img src="http://www.aimp.ru/favicon.ico" width = "16" height = "16"> [AIMP](https://www.aimp.ru/) -炫酷的本地音乐播放器，可以播放及录制互联网电台
+### 阅读
+
+
+
 
 - <img src="https://d3g1p8ush40lh4.cloudfront.net/Images/icon.ico" width = "16" height = "16"> [Axure](https://www.axure.com/) -大名鼎鼎快速原型设计工具
 
@@ -36,6 +45,7 @@
 
 - <img src="https://rufus.ie/pics/rufus-128.png" width = "16" height = "16"> [Rufus](https://rufus.ie) -优盘启动制作工具
 
+- <img src="https://pdf.wondershare.cn/favicon.ico" width = "16" height = "16"> [PDFelement](https://pdf.wondershare.cn/) -万兴PDF专家 万兴出品的PDF阅读器，编辑器。
 ## Mac平台 ##
 
 - <img src="https://getcollectie.com/apple-touch-icon-180x180.png" width = "16" height = "16"> [Collectie app](https://getcollectie.com/)-
