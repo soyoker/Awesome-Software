@@ -45,6 +45,7 @@
 
 - <img src="https://rufus.ie/pics/rufus-128.png" width = "16" height = "16"> [Rufus](https://rufus.ie) -优盘启动制作工具
 
+- <img src="https://www.ventoy.net/favicon.ico" width = "16" height = "16"> [ventoy](https://www.ventoy.net) -优盘启动制作工具
 
 ## Mac平台 ##
 
