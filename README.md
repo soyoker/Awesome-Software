@@ -45,7 +45,7 @@
 
 - <img src="https://rufus.ie/pics/rufus-128.png" width = "16" height = "16"> [Rufus](https://rufus.ie) -优盘启动制作工具
 
-- <img src="https://www.ventoy.net/favicon.ico" width = "16" height = "16"> [ventoy](https://www.ventoy.net) -优盘启动制作工具
+- <img src="https://www.ventoy.net/favicon.ico" width = "16" height = "16"> [ventoy](https://www.ventoy.net) -优盘启动制作工具 可以直接使用iso镜像安装，而不用刻录镜像到优盘
 
 ## Mac平台 ##
 
